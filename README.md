@@ -2,6 +2,7 @@
 
 ## The question we're answering:
 How does treatment cost and pathway progress for breast cancer patients; from diagnosis through medication, surgery, radiation, or chemotherapy.\
+
 _I originally wanted to compare a first diagnosis against a recurrence, but confirmed directly in the data that Synthea's breast cancer module models each patient's diagnosis as a single event. Rather than forcing a comparison the data couldn't support, I noted this a limitation of synthetic data -- something that can model a condition's typical pathway, but not the complex journey of living with the disease twice._
 
 ## Why this project:
