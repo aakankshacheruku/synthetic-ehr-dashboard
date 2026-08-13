@@ -1,7 +1,8 @@
 # Synthetic EHR Dashboard — Breast Cancer Treatment Cost & Pathway Analysis
 
 ## The question we're answering:
-How does treatment cost and pathway progress for breast cancer patients; from diagnosis through medication, surgery, radiation, or chemotherapy. If the data supports it, how does this path differ between the first diagnosis and a recurrence?
+How does treatment cost and pathway progress for breast cancer patients; from diagnosis through medication, surgery, radiation, or chemotherapy.\
+_I originally wanted to compare a first diagnosis against a recurrence, but confirmed directly in the data that Synthea's breast cancer module models each patient's diagnosis as a single event. Rather than forcing a comparison the data couldn't support, I noted this a limitation of synthetic data -- something that can model a condition's typical pathway, but not the complex journey of living with the disease twice._
 
 ## Why this project:
 Watching someone close to me go through breast cancer for a second time, after five years in remission, was shocking to say the least. It left me with so many questions: How is it going to go this time? Will she have to go through the same rounds of tests and medications again before we know whether it's surgery, chemotherapy, or radiation? How long do those tests even take? How do doctors know which medications are working and which aren't? What if things change quickly; what does the timeline from diagnosis to treatment actually look like?.\
@@ -26,5 +27,4 @@ GitHub - Hosting the project publicly. With code, notes, and progress history\
 3. Short written narrative tying it back to why I built this
 
 ## The Phases:
-* August 13th
-1. Phase 1 -- Get the data, install Synthea, generate patients, confirm breast cancer + recurrence is present.
+1. Phase 1: Completed August 13, 2026 -- Installed Synthea, generated 2319 synthetic patients, and confirmed 38 patients with a breast cancer diagnosis. Check for recurrence (same patient, two diagnosis dates); confirmed none exist in this dataset. 
