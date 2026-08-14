@@ -33,4 +33,4 @@ GitHub - Hosting the project publicly. With code, notes, and progress history\
 
 ## The Phases:
 1. Phase 1: Completed August 13, 2026 -- Installed Synthea, generated 2319 synthetic patients, and confirmed 38 patients with a breast cancer diagnosis. Check for recurrence (same patient, two diagnosis dates); confirmed none exist in this dataset. 
-2. Phase 2: Completed August 14, 2026 -- Set up PostgreSQL, loaded patients and conditions data, and wrote SQL queries (SELECT, FROM, WHERE) to explore the dataset. Identified the breast cancer cohort by SNOMED code (254837009), verified 38 matching patients two independent ways (grep and SQL), confirming Phase 1's recurrence finding -- diagnosis records never close, supporting the single-event pattern.
+2. Phase 2: Completed August 14, 2026 -- Set up PostgreSQL, loaded patients and conditions data, and wrote SQL queries (SELECT, FROM, WHERE) to explore the dataset. Identified the breast cancer cohort by SNOMED code (254837009), verified 38 matching patients two independent ways (grep and SQL), confirming Phase 1's recurrence finding diagnosis records never close, supporting the single-event pattern.
