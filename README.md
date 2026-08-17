@@ -5,12 +5,6 @@ How does treatment cost and pathway progress for breast cancer patients; from di
 
 _I originally wanted to compare a first diagnosis against a recurrence, but confirmed directly in the data that Synthea's breast cancer module models each patient's diagnosis as a single event. Rather than forcing a comparison the data couldn't support, I noted this a limitation of synthetic data -- something that can model a condition's typical pathway, but not the complex journey of living with the disease twice._
 
-## Why this project:
-Watching someone close to me go through breast cancer for a second time, after five years in remission, was shocking to say the least. It left me with so many questions: How is it going to go this time? Will she have to go through the same rounds of tests and medications again before we know whether it's surgery, chemotherapy, or radiation? How long do those tests even take? How do doctors know which medications are working and which aren't? What if things change quickly; what does the timeline from diagnosis to treatment actually look like?
-
-I built this end-to-end project to explore a real oncology cost-of-care question, using synthetic data that mirror the kind of information healthcare systems and analysts work with everyday.
-
-Using Synthea, I generated thousands of realistic (but fully synthetic) patient records to dig into treatment pathways and costs -- not to answer her specific treatment, but the data that led to the diagnosis.
 
 ## How I approached learning this:
 I didn't want to follow a tutorial and end up with something I couldn't explain. So I treated this project like a Lego set -- read the instruction manual before touching the bricks.
