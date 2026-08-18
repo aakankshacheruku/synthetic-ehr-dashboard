@@ -1,0 +1,4 @@
+pathway,patient_count,avg_diagnosis_cost,min_diagnosis_cost,max_diagnosis_cost
+Surveillance only,28,40187.32,1481.00,104905.57
+Chemo + targeted/hormone,5,43310.55,28084.52,77644.78
+"Hormone/targeted, no chemo",5,57235.52,41815.73,69346.92
