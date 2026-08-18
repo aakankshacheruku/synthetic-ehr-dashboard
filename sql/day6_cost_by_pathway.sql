@@ -95,4 +95,6 @@ ORDER BY avg_diagnosis_cost;
 -- therapy without chemo costs more on average than full chemo regimens.
 -- kind of counterintuitive at first, but makes sense once you look at the
 -- actual drugs -- trastuzumab, palbociclib, ribociclib are all newer,
--- expensive targeted biologics, priced way higher
+-- expensive targeted biologics, priced way higher per dose than
+--  cyclophosphamide, the standard chemo drug in this data.
+-- fewer doses doesn't mean cheaper if each dose costs a lot more.
