@@ -13,8 +13,6 @@ I didn't want to follow a tutorial and end up with something I couldn't explain.
 For every skill this project required, I studied the basics in small, focused lessons first, then immediately applied that lesson as homework: _a real piece of this project._
 No lesson without a build, no build without a lesson. That meant relearning things I used AI to lean on for. Now, I'm writing my own SQL queries again, understanding why a JOIN works, and etc.
 
-After building projects with the help of AI, I've realized I can't explain some of my projects in too much detail as I only check basic accuracy of my code I've written before sending it in to get fixed and pushed. This time, I can walk through every decision in my project and explain why I made it, not just what it looks like.
-
 ## The Tech Stack:
 Synthea - Generates realistic synthetic patient data on breast cancer patients (safe, no privacy issues)\
 SQL - Queries the raw data to answer specific questions\
