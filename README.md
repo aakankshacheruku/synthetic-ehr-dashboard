@@ -1,6 +1,5 @@
 # Synthetic EHR Dashboard — Breast Cancer Treatment Cost & Pathway Analysis
-## **Live dashboard:** 
-[View on Tableau Public](https://public.tableau.com/views/ehr_dashboard/TCPADashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+### **Live Dashboard** [View on Tableau Public](https://public.tableau.com/views/ehr_dashboard/TCPADashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## The question we're answering:
 How does treatment cost and pathway progress for breast cancer patients; from diagnosis through medication, surgery, radiation, or chemotherapy.
