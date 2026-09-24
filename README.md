@@ -3,6 +3,11 @@
 
 <img width="1215" height="1090" alt="TCPA Dashboard" src="https://github.com/user-attachments/assets/3b9833e2-dbb8-4b4e-a67b-6d5620b1ed02" />
 
+## Key Findings
+- The breast cancer cohort averages $357,695 in healthcare costs, roughly 1.9x the general population ($187,777).
+- Patients on hormone/targeted therapy without chemo cost the most per diagnosis ($57,236 vs. $43,311 for chemo).
+- The driver is surgery and radiation, not drug pricing. Medications make up only 1 to 3% of diagnosis cost.
+
 ## The question we're answering:
 How does treatment cost and pathway progress for breast cancer patients; from diagnosis through medication, surgery, radiation, or chemotherapy.
 
